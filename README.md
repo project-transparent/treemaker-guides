@@ -10,9 +10,9 @@ If you have a guide to submit to this repository, go ahead and shoot a pull requ
 
 ## Other Resources
 
-[The Hacker's Guide to Javac](http://scg.unibe.ch/archive/projects/Erni08b.pdf)
-[Baeldung - Creating a Java Compiler Plugin](https://www.baeldung.com/java-build-compiler-plugin)
-[Java Source Enhancer](https://gist.github.com/pfmiles/8091425)
+[The Hacker's Guide to Javac](http://scg.unibe.ch/archive/projects/Erni08b.pdf)<br>
+[Baeldung - Creating a Java Compiler Plugin](https://www.baeldung.com/java-build-compiler-plugin)<br>
+[Java Source Enhancer](https://gist.github.com/pfmiles/8091425)<br>
 
 ### Interesting Resources
 
