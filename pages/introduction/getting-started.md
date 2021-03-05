@@ -2,7 +2,7 @@
 
 ## What is TreeMaker?
 
-[`com.sun.tools.javac.tree.TreeMaker`](https://www.javadoc.io/doc/org.kohsuke.sorcerer/sorcerer-javac/latest/com/sun/tools/javac/tree/TreeMaker.html) is an internal class used by the Java compiler. It allows the creation of `com.sun.tools.javac.tree.JCTree` instances. JCTree is a class representing a node of the Java compiler's <abbr title="Abstract Syntax Tree">AST</abbr>.
+[`com.sun.tools.javac.tree.TreeMaker`](https://www.javadoc.io/doc/org.kohsuke.sorcerer/sorcerer-javac/latest/com/sun/tools/javac/tree/TreeMaker.html) is an internal class used by the Java compiler. It allows the creation of [`com.sun.tools.javac.tree.JCTree`](https://www.javadoc.io/static/org.kohsuke.sorcerer/sorcerer-javac/0.11/com/sun/tools/javac/tree/JCTree.html) instances. JCTree is a class representing a node of the Java compiler's <abbr title="Abstract Syntax Tree">AST</abbr>.
 
 This is a *very* powerful class as it provides a way to do compile-time transformation, as in, add new nodes to the AST before it is compiled. This essentially gives you a way to add *new* methods, fields, and other elements to a Java class, as well as modify or remove existing ones.
 
