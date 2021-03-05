@@ -1,4 +1,4 @@
-- [Home](https://project-transparent.github.io/treemaker-guides)
+- [Home](./)
 - Introduction
-  - [Getting Started](pages/introduction/getting-started.md)
-  - [Java 9+ Support](pages/introduction/java-9-support.md)
+  - [Getting Started](./pages/introduction/getting-started.md)
+  - [Java 9+ Support](./pages/introduction/java-9-support.md)
