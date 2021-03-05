@@ -1,3 +1,4 @@
+- [Home](index.html)
 - Introduction
   - [Getting Started](pages/introduction/getting-started.md)
   - [Java 9+ Support](pages/introduction/java-9-support.md)
