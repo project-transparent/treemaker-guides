@@ -1,2 +1,4 @@
 # TreeMaker Guides
-A set of guides for [TreeMaker](https://www.javadoc.io/doc/org.kohsuke.sorcerer/sorcerer-javac/latest/com/sun/tools/javac/tree/TreeMaker.html)
+A set of guides for the internal [TreeMaker](https://www.javadoc.io/doc/org.kohsuke.sorcerer/sorcerer-javac/latest/com/sun/tools/javac/tree/TreeMaker.html) class.
+
+*Note: These guides were written for JDK 8, and as such, do not provide the means to upgrade to JDK 9+.*
